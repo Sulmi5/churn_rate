@@ -4,7 +4,7 @@
 
 ## Snapshots
 
-
+![TabaleauDashboard](https://github.com/user-attachments/assets/9f6ab377-19ca-445b-8116-37fe423d970c)
 
 ## Trends
 - Assuming the analysis is on a monthly basis, the churn rate is 20.4%.
